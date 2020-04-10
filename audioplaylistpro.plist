@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemChildren</key>
+	<array>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart London 106.2 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/HeartLondon</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/rFGM25552n.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 5 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/EgCmT9UNSr.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Arabic live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba?type=.mp3%2F</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ep5puJWQS3.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital London live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/Capital</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Drt6RrkVvw.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>talkRADIO live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.talkradio.co.uk/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/hjpjegwqyac2.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC 1Xtra live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/89MJWuCrEF.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Classic Rock live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/KDbpxxdzcm.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC London live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/UYN5ruMG3J.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Gold Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/Gold</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/9bhq5MmTFQ.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart 90s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://media-ssl.musicradio.com/Heart90s</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/j63pectanpay.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Virgin Radio Anthems UK live</string>
+			<key>Radio Stream URL</key>
+			<string>https://radio.virginradio.co.uk/stream-anthems</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/pr82zwvpkuch.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>talkSPORT 2 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.talksport.com/stream2</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/nrdb8ycryagp.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Classic Oldies live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/classic-oldies-463250/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/gseccjjykkme.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart Dance Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://media-ssl.musicradio.com/HeartDance</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/mmvGSBqcQB.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Radio London 102.2 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-the.musicradio.com/SmoothLondonMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/NDRAAz9qpC.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Virgin Radio UK live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.virginradio.co.uk/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/rkn8bw3qndsc.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 2 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/N6JJwvwy9g.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Ibiza X Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://n09.radiojar.com/p1f2vpv37reuv?rj-ttl</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ujv576qshbkk.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>The Hits Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/hits.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/R7pNLUNj8C.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Magic live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicnational.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/p9AyD98CYR.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Mellow Magic live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicmellow.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/mlmcclt8bjdb.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital XTRA London live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-the.musicradio.com/CapitalXTRALondonMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/acUbRBB6cY.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Dance UK Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://dancestream.danceradiouk.com/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/syusunzejxjr.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 3 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/shtS6qMGDF.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital Manchester 102.0 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/CapitalManchesterMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/QadhVv8PSf.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISS FM UK live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-kiss.planetradio.co.uk/kissnational.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/g7WPR57G5K.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Top 40 Hits All Day live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/top-40-hits-all-day-442761/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/5j4yen9kkhwe.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Classic Country 1630 AM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://198.105.216.204:8194/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/dg9wxdpmvlfg.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Meditation Music live</string>
+			<key>Radio Stream URL</key>
+			<string>http://streaming.radionomy.com/JamendoLounge</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/rRZxpNQkFE.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Radio 60s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absolute60smed.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/DNduSRSm8w.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC World Service live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISSTORY live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/kisstory.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Zpszd23K8A.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISS Fresh live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/kissfresh.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/LukRDwQPLS.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Hot Hits UK live</string>
+			<key>Radio Stream URL</key>
+			<string>http://5.135.191.40:8000/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/cqfvru9pj7df.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>LBC live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/LBCUK</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/PqwsLMvvqE.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISS Dance live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/webcast6high.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/quzwk9gerlle.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>talkSPORT live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.talksport.com/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/22yeCk65a6.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 4 Extra live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2kxpnsRvzm.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 4 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/NHeXQWMsBh.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Magic Soul live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicsoul.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/dcbTBedMnd.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>LBC News live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/LBC1152</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/5e4VtCx7WL.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Always Elvis Presley Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://89.249.7.68/alwayselvisradio</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/bGyYRwY6jX.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Planet Rock live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/planetrock.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/evRXTks8hM.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>The Mix Radio 80s live</string>
+			<key>Radio Stream URL</key>
+			<string>http://fr1.nexuscast.com:8007/80saac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/syvqf4tpmqhn.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart 80s live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/Heart80sMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/dybmwxusgdpn.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC 6 Music live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ZjeeuBNXRP.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Scala Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/scalahigh.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/vgaf22m4mjme.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>House Nation UK live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/house-nation-uk-418508/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/aWa7xGKfBh.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Chill live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/Chill</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Yh9zNuJHt9.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital XTRA Reloaded live</string>
+			<key>Radio Stream URL</key>
+			<string>https://media-ssl.musicradio.com/CapitalXTRAReloaded</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/stckezxwkgq3.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Radio 90s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absolute90smed.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/6hzvaccHav.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Clyde 1 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/clyde1.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/zkuhJa8Ctj.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio X London live</string>
+			<key>Radio Stream URL</key>
+			<string>http://vis.media-ice.musicradio.com/RadioXLondon</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/3pTepgqLVc.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 1 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/BFcU2vjUXh.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absoluteradiomed.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/UaJTkPUjS2.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute 80s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absolute80s.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/z7eH9WyRGS.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Jazz FM live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/jazzhigh.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/qfCaS5rWTd.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Radio 70s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absolute70smed.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/9NMsg3tphA.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Classic FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-the.musicradio.com/ClassicFM</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Forth 1 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/forth1.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/cWfDbzapB9.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Dance Attack FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://149.255.59.162:8045/1</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/47fgaratk8vt.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Dancefmlive Trance live</string>
+			<key>Radio Stream URL</key>
+			<string>http://213.251.187.204:5006/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2abphm3n8slf.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Linn Classical live</string>
+			<key>Radio Stream URL</key>
+			<string>http://89.16.185.174:8004/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/zpczdpunfvn5.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>883 Centreforce radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://centreforce.streamgb.com:8830/128</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/juk9rgxggful.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Best Smooth Jazz live</string>
+			<key>Radio Stream URL</key>
+			<string>https://bsj-audio-stream.roddy.xyz:8002/stream.ogg</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/vfjbgcg5sz36.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>100 Chill live</string>
+			<key>Radio Stream URL</key>
+			<string>https://streamingv2.shoutcast.com/100-CHILL</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/QyW7CLuwYq.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Wave 105 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/wave105.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/qjbgHGQKc8.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Vibes FM 93.8 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://s02.whooshserver.net:9091/live?type=.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/4ekBJyuKbz.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio 4 LW live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_q</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2Gm4R3w2nt.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISS Garage live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/webcast5high.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/sjdujneauxv8.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Jazz London Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.canstream.co.uk:8075/live.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/nhwcr9v5xmd5.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Downtown Country live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/downtowncountry.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/bjggzw5kacqd.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>90s All Time Greatest live</string>
+			<key>Radio Stream URL</key>
+			<string>https://streamingv2.shoutcast.com/90sAllTimeGreatest</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ygpq7lzvwva6.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Abacus.fm - British Comedy Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://185.80.221.113:7550/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/r4nmeyuv2zgy.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Magic Chilled live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicchilled.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/8whgrqhzyp4h.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BLUES live</string>
+			<key>Radio Stream URL</key>
+			<string>https://bluesserver.rock-radio.uk/stream?nocache</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/kkmjau7bzeb6.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Dancefmlive Reggae live</string>
+			<key>Radio Stream URL</key>
+			<string>http://213.251.187.204:8004/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/e8wrftdtmdaz.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Retro Soul Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://46.28.49.164:7504/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/7Te4NMW7jz.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart 70s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://media-ssl.musicradio.com/Heart70s</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/zyupm3bngcfm.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>British Comedy Radio Two live</string>
+			<key>Radio Stream URL</key>
+			<string>https://streaming02.zfast.co.uk/proxy/britcom1?mp=%2Fstream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/p89ez8mvuuss.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC 5 Live Sports Extra (UK Only) live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/bbc-5-live-sports-extra-uk-only-399223/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/jNFcZfxdwS.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Abacus.fm - Smooth Jazz live</string>
+			<key>Radio Stream URL</key>
+			<string>http://178.33.232.106:8034/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/nzwrducpvyq8.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio Scotland live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/mMC2CJ6v65.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio Caroline Flashback live</string>
+			<key>Radio Stream URL</key>
+			<string>http://sc2.radiocaroline.net:10558/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/dpdH3EeEkx.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital XTRA National live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-the.musicradio.com/CapitalXTRANationalMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Bp7e3xsmFP.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Kool London live</string>
+			<key>Radio Stream URL</key>
+			<string>http://uk1-pn.webcast-server.net:8698/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/C4nxLA8duG.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>70s 80s All Time Greatest live</string>
+			<key>Radio Stream URL</key>
+			<string>http://5.189.142.165:8032/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/j8hlcsh5bgk2.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Riddim Roots Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://eu8.fastcast4u.com:5416/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ut4pgdwxhdkx.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Pop Hits live</string>
+			<key>Radio Stream URL</key>
+			<string>http://pollux.shoutca.st:8935/1</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/p3f6cdaxqs59.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio City live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/city.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/tXqLFL7wyb.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Absolute Radio 00s live</string>
+			<key>Radio Stream URL</key>
+			<string>https://ais.absoluteradio.co.uk/absolute00smed.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/5zELPmDxdz.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>The Mix 80s live</string>
+			<key>Radio Stream URL</key>
+			<string>http://streaming.radionomy.com/JamendoLounge</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/jtkvepu3gr8y.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart Yorkshire live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/HeartYorkshireMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2W7KV8vFm8.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart West Midlands 100.7 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/HeartWestMidsMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Wn5UNntLLJ.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Radio Country live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/smooth-radio-country-463418/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/pg89zwvdg4fd.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio X Manchester live</string>
+			<key>Radio Stream URL</key>
+			<string>http://vis.media-ice.musicradio.com/RadioXManchester</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/rAy4wNw8rb.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Mi-Soul Music Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://178.159.3.22:8177/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/8kccntvd4unq.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Radio Scotland live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-the.musicradio.com/SmoothScotlandMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Qx6uN4T4tn.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Union Jack Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://21223.live.streamtheworld.com/JACK_DAB_SC</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2gghxghhla5x.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>ROK British Comedy 2 - ROK Classic Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://149.255.59.164:8009/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/nttqjuflmncv.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Fun Kids live</string>
+			<key>Radio Stream URL</key>
+			<string>http://edge-ads-01-cr.sharp-stream.com/funkids.mp3?device</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/sFzxv3kLhY.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Love 80s - Manchester live</string>
+			<key>Radio Stream URL</key>
+			<string>http://rss-streaming.co.uk:8042/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/raxpssxadgn8.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>House FM dot Net live</string>
+			<key>Radio Stream URL</key>
+			<string>http://streamer.radio.co/s0de514535/listen</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/kabk8pl67qb6.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Soul Power Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://eu9.fastcast4u.com/proxy/soulpowerradio?mp=%2F1</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/5dbhjfzt9bew.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio Ulster live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/WNduCPBrP5.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Cool FM live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/coolfm.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Z5uQMFeV5Z.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Cheesy FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/xZzKLJj3Bm.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Golden Oldies live</string>
+			<key>Radio Stream URL</key>
+			<string>http://philae.shoutca.st:8161/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/t9aenzpxqgpk.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Greatest Hits Liverpool live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magic1548.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/btmvdJh2GB.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Beam FM - UK live</string>
+			<key>Radio Stream URL</key>
+			<string>http://shoutcast.beamfm.net:8500/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/zbdsryjhzcs7.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart North West live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/HeartNorthWest</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/jM5fkupsQ3.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Drum And Bass Worldwide live</string>
+			<key>Radio Stream URL</key>
+			<string>http://176.58.99.7:8000/dnbww128.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/fl5qjtrskwhh.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>All Time Greatest Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://streamingv2.shoutcast.com/AllTime70s80sGreatest?lang</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/a6wqpfaebs2y.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Virgin Radio Chilled UK live</string>
+			<key>Radio Stream URL</key>
+			<string>https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/xykenktesuhd.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>House Music Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://uk4-vn.mixstream.net:8128/stream.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/btkgrauy44j6.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Kerrang! Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/kerrang.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/EmtWX3p7yr.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Country Hits live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/countryhits.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/dxttdsukn5zx.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>British Comedy Radio One live</string>
+			<key>Radio Stream URL</key>
+			<string>http://stream.pumpkinfm.com:8132/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/q2cwrhzvyyjk.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>247 House live</string>
+			<key>Radio Stream URL</key>
+			<string>http://radio.strictly.house:9500/stream?hash=1575015166470.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/3QKD5tG27R.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Flex FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://142.4.215.64:8116/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/agdxzmhteqhc.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>ROK British Comedy 1 - ROK Classic Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://s1.viastreaming.net:9155/;stream.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2kdvubmqnlb8.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio Caroline live</string>
+			<key>Radio Stream URL</key>
+			<string>http://sc6.radiocaroline.net:8040/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/mjHvU9YY9n.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>House Party Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://92.232.224.251:8000/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/am48aexys2fm.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Radio Punjabi Virsa live</string>
+			<key>Radio Stream URL</key>
+			<string>http://node-09.zeno.fm/25h82wv629duv?rj-ttl</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2qpfpewlq4ys.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Diverse FM - Bollywood Music Mix live</string>
+			<key>Radio Stream URL</key>
+			<string>http://109.169.46.197:8011/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/bjmtc6tcrepm.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Gem 106 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/gem106.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/VBqj2qPQmG.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>All 60s Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://185.105.4.100:8151/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/j87nmvnrpbhs.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Real House Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://realhouseradio.out.airtime.pro:8000/realhouseradio_a</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/tvrmhtazhu82.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Radio North West live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-the.musicradio.com/SmoothNorthWestMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/5R8ACqguHF.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Dylan Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/dylan-radio-439280/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/duhssapnjfpg.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio Merseyside live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_q?e</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/kAhJHmcnwd.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>myRock Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/myrock-radio-417748/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Qe5stbHnaa.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Chris Country live</string>
+			<key>Radio Stream URL</key>
+			<string>http://edge-ads-03-gos2.sharp-stream.com/chriscountry.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/znf7ehe6hhz5.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart Scotland Glasgow live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-sov.musicradio.com/HeartGlasgow</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/57r5XdxNqR.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Trancetechnic live</string>
+			<key>Radio Stream URL</key>
+			<string>http://109.169.46.197:8107/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/9txurzqsa3nb.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>NME 1 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://listen-nme.sharp-stream.com/nme1.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/hbz4tfea59du.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Love 80s - Liverpool live</string>
+			<key>Radio Stream URL</key>
+			<string>http://rss-streaming.co.uk:8062/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/avj7hthlkchp.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heart Radio Wales live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/HeartSouthWalesMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ZFKFRLJvCw.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth Radio East Midlands live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/SmoothEastMidsMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ptWVD5TsUw.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>KISS JAMS live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/webcast7high.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/n9myptethk6r.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>PUNK FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://94.23.26.22:8090/live.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/tsju9aeud2ck.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>NTS Radio 1 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-relay-geo.ntslive.net/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/W7yqZMhB3Z.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Greek Hits Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://5.189.142.165:8140/;stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/8q2vqxjnescq.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Solar Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://svr1.msmn4.co:8324/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/gFxbF7jTf5.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>U105 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://gbradio.cdn.tibus.net/U105LQ</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/VsJS2zpDDc.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital Yorkshire South and West live</string>
+			<key>Radio Stream URL</key>
+			<string>http://ice-sov.musicradio.com/CapitalYorkshireSouthWestMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/tNPJM9xXDy.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Afrique live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/rcgqpwyplnjv.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>1Mix Radio - Trance live</string>
+			<key>Radio Stream URL</key>
+			<string>http://fr1.1mix.co.uk:8060/320</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/xzwbn3nbnjtg.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Clyde 2 live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-al.planetradio.co.uk/clyde2.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/AceszwDtsN.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Happy Hardcore Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://audio-edge-3mayu.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/F8HjDsVNn5.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Ocean Radio Chilled live</string>
+			<key>Radio Stream URL</key>
+			<string>http://philae.shoutca.st:8446/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/9A3r8uZTRv.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Scottish Sun 80s live</string>
+			<key>Radio Stream URL</key>
+			<string>http://gbradio.cdn.tibus.net/80SSUN</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/zluhpvwcszla.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Fresh Dance live</string>
+			<key>Radio Stream URL</key>
+			<string>http://pollux.shoutca.st:8147/1</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/bdrx4ah6uzl2.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital Birmingham live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/CapitalBirmingham</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/nzWcafLtzB.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Premier Gospel live</string>
+			<key>Radio Stream URL</key>
+			<string>http://edge-audio-05-gos2.sharp-stream.com/premiernationallow.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2aJkth6Gnm.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Q Radio Belfast live</string>
+			<key>Radio Stream URL</key>
+			<string>http://icy-e-03-boh.sharp-stream.com/qr967.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/vJvr6QunDM.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Bedroom-dj House Channel live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/bedroom-dj-house-channel-449743/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/jxlzmgkqgt8y.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>UK Vibes.net live</string>
+			<key>Radio Stream URL</key>
+			<string>http://212.71.250.12:8151/;stream.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/a7wmXe6Xqx.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Rinse FM 106.8 live</string>
+			<key>Radio Stream URL</key>
+			<string>http://206.189.117.157:8000/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/WA6J8FHsBg.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Metro Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/metro.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/G9HGkvkN25.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Total Rock live</string>
+			<key>Radio Stream URL</key>
+			<string>http://s04.whooshclouds.net:8220/live</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/mLX5r79WWU.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Magic at the Musicals live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicmusicalshigh.aac?amsparams</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/cmhadubnvgsp.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital Edinburgh live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/CapitalEdinburgh</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/W8PSxxvH4M.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Rock FM live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/rock.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/Xh2kD6DsYw.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>All 70s Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://185.105.4.100:8073/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/2kvp7artvgw2.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Linedancer Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://n0d.radiojar.com/zhyg8qga29duv?rj-ttl</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/tywgpa2dud8g.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>50s All Time Greatest live</string>
+			<key>Radio Stream URL</key>
+			<string>https://stream-mz.planetradio.co.uk/magicmusicalshigh.aac?amsparams</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/ufzcdshnmq7s.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Capital Liverpool 107.6 FM live</string>
+			<key>Radio Stream URL</key>
+			<string>http://vis.media-ice.musicradio.com/CapitalLiverpoolMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/7puZStRCwe.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Smooth South Wales live</string>
+			<key>Radio Stream URL</key>
+			<string>http://media-ice.musicradio.com/SmoothSouthWalesMP3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/pxzvxwnhczyp.jpeg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>BBC Radio Manchester live</string>
+			<key>Radio Stream URL</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_q</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/QAPFBf7Jta.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>ROK Classic Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://s1.viastreaming.net:9155/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/bqfvmqvdegdy.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Gaydio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://stream.gaydio.co.uk/gaydiouk.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/xFML8eKBXx.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Total Dance live</string>
+			<key>Radio Stream URL</key>
+			<string>http://pollux.shoutca.st:8823/1</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/smeb7nhaqs5z.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Sunrise Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://direct.sharp-stream.com/sunriseradio.mp3</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/cSJMv3bFGv.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Heat Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://live-bauer-al.sharp-stream.com/heat.aac</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/9hAaneGz2y.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Abacus.fm - Classical live</string>
+			<key>Radio Stream URL</key>
+			<string>http://178.33.232.106:8500/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/3pbjqunzjurs.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>NonStopOldies live</string>
+			<key>Radio Stream URL</key>
+			<string>http://46.105.122.141:9676/;</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/pbvd9edbgpju.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>Select UK Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>https://mytuner-radio.com/radio/select-uk-radio-395823/</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/8WvFhUHkwW.jpg</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+		<dict>
+			<key>Radio Name</key>
+			<string>All 80s Radio live</string>
+			<key>Radio Stream URL</key>
+			<string>http://185.105.4.100:8133/stream</string>
+			<key>Radio Stream M3U8</key>
+			<string></string>
+			<key>Radio Logo</key>
+			<string>https://mytuner.global.ssl.fastly.net/media/tvos_radios/jfucbvzsbhkc.png</string>
+			<key>Radio Subtitle</key>
+			<string>UK Radio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
