@@ -1,0 +1,536 @@
+<channel>
+<station name="WDR 1LIVE Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C438"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/1live/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="SWR3 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C439"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="bigFM Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C440"
+link="http://streams.bigfm.de/bigfm-mp3-96"/>
+<station name="WDR 1LIVE Diggi Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C441"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/1live/diggi/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="WDR 2 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C442"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Kiss FM Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C443"
+link="http://topradio-de-hz-fal-stream03-cluster01.radiohost.de/kissfm_128"/>
+<station name="Radio Paloma"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C444"
+link="http://pool.radiopaloma.de/RADIOPALOMA.mp3"/>
+<station name="WDR 4 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C445"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr4/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="SWR1 BW Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C446"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Jam FM Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C447"
+link="http://rtlberlin.hoerradar.de/jamfm-mp3-128"/>
+<station name="ENERGY Berlin Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C448"
+link="http://cdn.nrjaudio.fm/adwz1/de/33001/mp3_128.mp3"/>
+<station name="89.0 RTL Livestream Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C449"
+link="http://stream.89.0rtl.de/live/mp3-128/tasmanic/"/>
+<station name="DasDing Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C450"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio Regenbogen"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C451"
+link="https://streams.regenbogen.de/rr-mannheim-128-aac"/>
+<station name="FFN WebRadio Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C452"
+link="http://ffn-de-hz-fal-stream02-cluster01.radiohost.de/ffn_192"/>
+<station name="Radio Schlagerparadies"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C453"
+link="http://5.9.142.58:31883/schlagerparadies128k.mp3"/>
+<station name="Radio Gong 96,3"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C454"
+link="http://mp3.radiogong963.c.nmdn.net/fs_radiogong963/livestream.mp3"/>
+<station name="GAYFM Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C455"
+link="http://icepool.silvacast.com/GAYFM.mp3"/>
+<station name="SWR1 RP Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C456"
+link="http://dg-swr-http-fra-dtag-cdn.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="sunshine live Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C457"
+link="http://stream.sunshine-live.de/live/mp3-128/tasmanic/"/>
+<station name="Ostseewelle Hit Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C458"
+link="http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3"/>
+<station name="WDR 5 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C459"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr5/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RPR1 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C460"
+link="http://streams.rpr1.de/rpr-trier-128-mp3"/>
+<station name="SWR4 BW Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C461"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="100'5 DAS HITRADIO Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C462"
+link="http://dashitradio-de-hz-fal-stream02-cluster01.radiohost.de/dashitradio_128"/>
+<station name="Defjay Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C463"
+link="http://icepool.silvacast.com/DEFJAY.mp3"/>
+<station name="Radio Hamburg"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C464"
+link="http://stream.radiohamburg.de/rhh-live/mp3-128/tasmanic/"/>
+<station name="Radio 7"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C465"
+link="http://stream.radio7.de/stream1/livestream.mp3"/>
+<station name="Absolut relax Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C466"
+link="http://stream.absolutradio.de/relax/mp3-160/MyRadiorelax/"/>
+<station name="RADIO BOB!"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C467"
+link="http://streams.radiobob.de/bob-live/mp3-128/tasmanic/"/>
+<station name="RBB Fritz Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C468"
+link="http://dg-rbb-http-dus-dtag-cdn.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio SAW"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C469"
+link="http://stream.radiosaw.de/saw/mp3-128/my-radios/stream.mp3"/>
+<station name="Arabella Live 105.2 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C470"
+link="http://rs26.stream24.net/stream"/>
+<station name="ANTENNE BAYERN Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C471"
+link="http://mp3channels.webradio.antenne.de/antenne"/>
+<station name="Country 108 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C472"
+link="http://icepool.silvacast.com/COUNTRY108.mp3"/>
+<station name="RADIO PSR Live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C473"
+link="http://streams.radiopsr.de/psr-live/mp3-128/tasmanic/"/>
+<station name="Antenne Niedersachsen Oldies Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C474"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennends/oldies/mp3/mid?ar-distributor=f0c1"/>
+<station name="SWR4 RP Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C475"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Bayern 3 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C476"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/br3/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RBB InfoRadio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C477"
+link="http://dg-rbb-http-fra-dtag-cdn.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RADIO 21 Free Station"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C478"
+link="http://188.94.97.91/radio21.mp3"/>
+<station name="Rockland Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C479"
+link="http://stream.rockland-digital.de/rockland/mp3-128/my-radios/stream.mp3"/>
+<station name="WDR 2 Rhein und Ruhr Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C480"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY München Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C481"
+link="http://cdn.nrjaudio.fm/adwz1/de/33003/mp3_128.mp3"/>
+<station name="R.SH 80er Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C482"
+link="http://streams.rsh.de/rsh-80er/mp3-128/tasmanic/"/>
+<station name="RBB Radio Eins"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C483"
+link="http://dg-rbb-http-dus-dtag-cdn.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="MDR JUMP Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C484"
+link="http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="Deutschlandfunk Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C485"
+link="http://dg-dradio-http-dus-dtag-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Antenne Niedersachsen Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C486"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennends/live/mp3/mid?ar-distributor=f0c1"/>
+<station name="die neue welle Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C487"
+link="http://live.meine-neue-welle.de/dnw_128.mp3"/>
+<station name="RBB Antenne Brandenburg Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C488"
+link="http://dg-rbb-http-dus-dtag-cdn.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="WDR 2 Ruhrgebiet Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C489"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="100% Schlager Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C490"
+link="http://streams.schlagerplanetradio.com/schlager/mp3-128/tasmanic/"/>
+<station name="radio SAW 80er"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C491"
+link="http://stream.saw-musikwelt.de/saw-80er/mp3-128/my-radios/stream.mp3"/>
+<station name="Klassik Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C492"
+link="http://stream.klassikradio.de/live/mp3-128/tasmanic/"/>
+<station name="RBB radio BERLIN 88,8"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C493"
+link="http://dg-rbb-http-dus-dtag-cdn.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Antenne Düsseldorf Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C494"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennedus/live/mp3/high?ar-distributor=f0c1"/>
+<station name="BR1 Mittel Oberfranken Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C495"
+link="http://dg-br-http-dus-dtag-cdn.cast.addradio.de/br/br1/franken/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="R.SA Live Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C496"
+link="http://streams.rsa-sachsen.de/rsa-live/mp3-128/tasmanic/"/>
+<station name="hr3 Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C497"
+link="http://dg-hr-http-fra-dtag-cdn.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="sunshine live 90er Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C498"
+link="http://stream.sunshine-live.de/90er/mp3-128/tasmanic/"/>
+<station name="Radio Brocken Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C499"
+link="http://stream.radiobrocken.de/live/mp3-128/tasmanic/"/>
+<station name="ENERGY Sachsen Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C500"
+link="http://cdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3"/>
+<station name="Fantasy Dance FM Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C501"
+link="http://62.138.154.16:8000/HQ_stream.mp3"/>
+<station name="ROCK ANTENNE Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C502"
+link="http://mp3channels.webradio.rockantenne.de/rockantenne"/>
+<station name="NDR 2 niedersachse Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C503"
+link="http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"/>
+<station name="ENERGY Bremen Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C504"
+link="http://stream.ffn.de/energybremen/mp3-192/livestream.mp3"/>
+<station name="Antenne MV Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C505"
+link="http://streams.antennemv.de/antennemv-live/mp3-128/tasmanic/"/>
+<station name="HAMBURG ZWEI Radio"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C506"
+link="http://stream.hamburg-zwei.de/hh2-live/mp3-128/tasmanic/"/>
+<station name="Delta Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C507"
+link="http://streams.deltaradio.de/delta-live/mp3-128/tasmanic/"/>
+<station name="WDR COSMO Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C508"
+link="http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3"/>
+<station name="SWR2 Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C509"
+link="http://dg-swr-http-dus-dtag-cdn.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3?ar-distributor=f0c1"/>
+<station name="ROCK ANTENNE Hamburg Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C510"
+link="http://mp3channels.webradio.rockantenne.de/rockantenne-hamburg"/>
+<station name="Radio Seefunk RSF LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C511"
+link="http://webradio.radio-seefunk.de:8000/"/>
+<station name="ENERGY Hamburg Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C512"
+link="http://cdn.nrjaudio.fm/adwz1/de/33009/mp3_128.mp3"/>
+<station name="RADIO PSR 90er LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C513"
+link="http://streams.radiopsr.de/psr-90er/mp3-128/tasmanic/"/>
+<station name="Antenne AC Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C514"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antenneac/live/mp3/high?ar-distributor=f0c1"/>
+<station name="hr1 Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C515"
+link="http://dg-hr-http-dus-dtag-cdn.cast.addradio.de/hr/hr1/live/mp3/48/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY Nürnberg Radio LIVE "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C516"
+link="http://cdn.nrjaudio.fm/adwz1/de/33011/mp3_128.mp3"/>
+<station name="Radio Galaxy LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C517"
+link="http://rs21.stream24.net/stream"/>
+<station name="B5 aktuell Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C518"
+link="http://dg-br-http-dus-dtag-cdn.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY Stuttgart Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C519"
+link="http://cdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3"/>
+<station name="Sunshine live Techno Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C520"
+link="http://stream.sunshine-live.de/techno/mp3-128/tasmanic/"/>
+<station name="Top FM Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C521"
+link="http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3"/>
+<station name="N-JOY Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C522"
+link="http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"/>
+<station name="WDR 3 Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C523"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr3/live/mp3/256/stream.mp3?ar-distributor=f0c1"/>
+<station name="MDR SACHSEN Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C524"
+link="http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/low/stream.mp3?ar-distributor=f0c1"/>
+<station name="WDR 2 Ostwestfalen Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C525"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/ostwestfalenlippe/mp3/56/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY LATINO Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C526"
+link="http://cdn.nrjaudio.fm/adwz1/de/33069/mp3_128.mp3"/>
+<station name="NDR 2 hamburg Radio LIVE"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C527"
+link="http://ndr-ndr2-hamburg.cast.addradio.de/ndr/ndr2/hamburg/mp3/128/stream.mp3"/>
+<station name="Baden Fm Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C528"
+link="http://badenfm.ip-streaming.net:8006/badenfm"/>
+<station name="antenne THÜRINGEN Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C529"
+link="http://stream.antennethueringen.de/live/mp3-128/radiode/"/>
+<station name="WDR 2 Aachen und Region Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C530"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="You FM Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C531"
+link="http://dg-hr-http-fra-dtag-cdn.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RPR1 80er Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C532"
+link="http://streams.rpr1.de/rpr-trier-128-mp3"/>
+<station name="Radio 1A 90er Hits "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C533"
+link="http://stream.1a-webradio.de/saw-90er/mp3-128/my-radios-1A/stream.mp3"/>
+<station name="Hitradio Ohr Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C534"
+link="http://str0.creacast.com/hitradio_ohr"/>
+<station name="hr4 Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C535"
+link="http://dg-hr-http-dus-dtag-cdn.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Kiss FM RnB Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C536"
+link="http://topradio-de-hz-fal-stream07-cluster01.radiohost.de/kissfm-rnb_128"/>
+<station name="Antenne MV Schlager-Laune Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C537"
+link="http://streams.antennemv.de/amv-schlager/mp3-128/tasmanic/"/>
+<station name="Discofoxhimmel Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C538"
+link="http://s13.derstream24.de:8000/;"/>
+<station name="RTL In The Mix 89.0 Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C539"
+link="http://stream.89.0rtl.de/mix/mp3-128/tasmanic/"/>
+<station name="Kiss FM Electro Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C540"
+link="http://topradio-de-hz-fal-stream10-cluster01.radiohost.de/kissfm-electro_128"/>
+<station name="Deutschlandfunk Kultur Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C541"
+link="http://dg-dradio-http-fra-dtag-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="BR1 Oberbayern Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C542"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio SAW-70er "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C543"
+link="http://stream.saw-musikwelt.de/saw-70er/mp3-128/my-radios/stream.mp3"/>
+<station name="DIE NEUE 107.7 Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C544"
+link="http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="R.SA Oldieclub Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C545"
+link="http://streams.rsa-sachsen.de/rsa-oldies/mp3-128/tasmanic/"/>
+<station name="Rockland Digital Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C546"
+link="http://stream.rockland-digital.de/rockland/mp3-128/my-radios/stream.mp3"/>
+<station name="JazzRadio Berlin Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C547"
+link="http://85.25.217.22:8050/;"/>
+<station name="WDR 2 Bergisches Land Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C548"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RBB Kulturradio Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C549"
+link="http://dg-rbb-http-fra-dtag-cdn.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="MDR SACHSEN-ANHALT Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C550"
+link="http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="Absolut HOT Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C551"
+link="http://stream.absolutradio.de/hot/mp3-128/MyradioHOT/"/>
+<station name="DasDing Sprechstunde Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C552"
+link="http://dg-swr-http-fra-dtag-cdn.cast.addradio.de/swr/swr/raka11/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RADIO BOB! Rock"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C553"
+link="http://streams.radiobob.de/bob-acdc/mp3-128/tasmanic/;"/>
+<station name="Radio 1LIVE HipHop "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C554"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/1live/hiphop/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Bremen Eins Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C555"
+link="http://dg-rb-http-dus-dtag-cdn.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Classical 102 Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C556"
+link="http://icepool.silvacast.com/KLASSIK1.mp3"/>
+<station name="NORA Oldie Stream Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C557"
+link="http://streams.norawebstreams.de/nora-oldies/mp3-128/tasmanic/"/>
+<station name="RauteMusik FM Trance Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C558"
+link="http://de-hz-fal-stream07.rautemusik.fm/trance"/>
+<station name="BR2 sued Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C559"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="RADIO PSR 80er "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C560"
+link="http://streams.radiopsr.de/psr-80er/mp3-128/tasmanic/"/>
+<station name="NDR 1 Niedersachsen braunschweig Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C561"
+link="http://ndr-ndr1niedersachsen-braunschweig.cast.addradio.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3"/>
+<station name="hr-iNFO Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C562"
+link="http://dg-hr-http-fra-dtag-cdn.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio Bamberg "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C563"
+link="http://rs1.stream24.net/stream"/>
+<station name="NORA 80er Stream Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C564"
+link="http://streams.norawebstreams.de/nora-80er/mp3-128/tasmanic/"/>
+<station name="ENERGY DANCE Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C565"
+link="http://cdn.nrjaudio.fm/adwz1/de/33015/mp3_128.mp3"/>
+<station name="MDR Thüringen – Das Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C566"
+link="http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY RNB Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C567"
+link="http://cdn.nrjaudio.fm/adwz1/de/33017/mp3_128.mp3"/>
+<station name="sunshine live - Trance Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C568"
+link="http://stream.sunshine-live.de/trance/mp3-128/tasmanic/"/>
+<station name="Antenne Frankfurt Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C569"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennefrankfurt/live/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="sunshine live - House Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C570"
+link="http://stream.sunshine-live.de/house/mp3-128/tasmanic/"/>
+<station name="Radio 100% Deutsch Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C571"
+link="http://streams.schlagerplanet.com/deutsch/mp3-128/tasmanic/"/>
+<station name="1A Party Hits Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C572"
+link="http://stream.1a-webradio.de/saw-party/mp3-128/my-radios-1A/stream.mp3"/>
+<station name="RauteMusik FM Lounge Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C573"
+link="http://de-hz-fal-stream08.rautemusik.fm/lounge"/>
+<station name="RauteMusik FM ChartHits Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C574"
+link="http://de-hz-fal-stream04.rautemusik.fm/charthits"/>
+<station name="Antenne Niedersachsen 80er Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C575"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennends/80er/mp3/mid?ar-distributor=f0c1"/>
+<station name="RADIO PSR Partymix "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C576"
+link="http://streams.radiopsr.de/psr-partymix/mp3-128/tasmanic/"/>
+<station name="Bremen NEXT Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C577"
+link="http://dg-rb-http-dus-dtag-cdn.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="WDR 2 Münsterland Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C578"
+link="http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/muensterland/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="917xfm Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C579"
+link="https://mp3channels.rockantenne.hamburg/917xfm"/>
+<station name="Antenne Niedersachsen 90er Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C580"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antennends/90er/mp3/mid?ar-distributor=f0c1"/>
+<station name="sunshine live - Classics Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C581"
+link="http://stream.sunshine-live.de/classics/mp3-128/tasmanic/"/>
+<station name="ANTENNE BAYERN Oldies but Goldies Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C582"
+link="http://mp3channels.webradio.antenne.de/oldies-but-goldies"/>
+<station name="BR-Klassik Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C583"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY RELAX Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C584"
+link="http://cdn.nrjaudio.fm/adwz1/de/33057/mp3_128.mp3"/>
+<station name="NDR 2 schleswigholstein Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C585"
+link="http://ndr-ndr2-schleswigholstein.cast.addradio.de/ndr/ndr2/schleswigholstein/mp3/128/stream.mp3"/>
+<station name="sunshine live - Lounge Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C586"
+link="http://stream.sunshine-live.de/lounge/mp3-128/tasmanic/"/>
+<station name="Wacken Radio Heavy Metal "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C587"
+link="http://de-hz-fal-stream05.rautemusik.fm/wackenradio"/>
+<station name="Hit Radio N1 "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C588"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/hitradion1/live/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="Klassik Radio Dreams"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C589"
+link="http://stream.klassikradio.de/dreams/mp3-128/tasmanic/"/>
+<station name="MDR SPUTNIK Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C590"
+link="http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="WDR 2 Südwestfalen Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C591"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio EINS "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C592"
+link="http://rs3.stream24.net/stream"/>
+<station name="BR2 nord Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C593"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="MDR AKTUELL Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C594"
+link="http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="NDR 1 Niedersachsen osnabrueck Radio "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C595"
+link="http://ndr-ndr1niedersachsen-osnabrueck.cast.addradio.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3"/>
+<station name="Schlager Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C596"
+link="http://de-hz-fal-stream08.rautemusik.fm/schlager"/>
+<station name="R.SA Ostrock Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C597"
+link="http://streams.rsa-sachsen.de/rsa-ostrock/mp3-128/tasmanic/"/>
+<station name="BR1 Niederbayern Oberpfalz Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C598"
+link="http://dg-br-http-fra-dtag-cdn.cast.addradio.de/br/br1/nbopf/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="Delta radio ALTERNATIVE FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C599"
+link="http://streams.deltaradio.de/delta-alternative/mp3-128/tasmanic/"/>
+<station name="Radio 91.2 FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C600"
+link="http://do.lokalradioserver.de:8000/stream_high.mp3"/>
+<station name="Radio Nordseewelle FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C601"
+link="http://stream.radio-nordseewelle.de/live/mp3-128/tasmanic/"/>
+<station name="Radio38 Wolfsburg FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C602"
+link="http://stream.radio38.de/?tasmanic"/>
+<station name="Radio38 Braunschweig FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C603"
+link="http://stream.radio38.de/?tasmanic"/>
+<station name="Deutsch Rap Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C604"
+link="http://de-hz-fal-stream07.rautemusik.fm/deutschrap"/>
+<station name="NDR 2 mecklenburgvorpommern Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C605"
+link="http://ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"/>
+<station name="Antenne Unna Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C606"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/antenneunna/live/mp3/high?ar-distributor=f0c1"/>
+<station name="Deutschlandfunk Nova Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C607"
+link="http://dg-dradio-http-dus-dtag-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="NDR 1 Niedersachsen hannover Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C608"
+link="http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"/>
+<station name="Cosmo Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C609"
+link="http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/cosmo/live/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="ENERGY POP Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C610"
+link="http://cdn.nrjaudio.fm/adwz1/de/33037/mp3_128.mp3"/>
+<station name="DIE NEUE 107.7 – 80er Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C611"
+link="http://dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/dieneue1077/80er/high/stream.mp3?ar-distributor=f0c1"/>
+<station name="Radio 95.5 Charivari FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C612"
+link="http://rs25.stream24.net/stream?ref=radio.FM.app"/>
+<station name="ENERGY HITS Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C613"
+link="http://cdn.nrjaudio.fm/adwz1/de/33019/mp3_128.mp3"/>
+<station name="BR1 Mainfranken Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C614"
+link="http://dg-br-http-dus-dtag-cdn.cast.addradio.de/br/br1/mainfranken/mp3/128/stream.mp3?ar-distributor=f0c1"/>
+<station name="R.SH Top 40 – Charts Radio FM "
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C615"
+link="http://streams.rsh.de/rsh-nordparade/mp3-128/tasmanic/"/>
+</channel>
